@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Card data
     const cardData = [
          {
-            img: "abr.25.png",
+            img: "assets/blog/abr.25.png",
             date: "abril/25",
             author: "p/ Leonor, uma colega como vocês",
             popupInfo: `
